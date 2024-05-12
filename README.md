@@ -6,15 +6,17 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [CSS - Login Screen with Dark Theme](#css---login-screen-with-dark-theme)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 ## Overview
 
@@ -39,7 +41,7 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
 - Improved my Semantic HTML markup skills.
   >By using `main`, `section` and `article` instead of a simple `div`.
 
-- How to inspect an element, on the browser, by hover the mouse over it.
+- How to inspect an element, on the browser, by hovering the mouse over it.
   >On Chrome element's inspection window, on the top left, click on the square with the arrow inside it.
 
 - How to see the responsiveness, on the browser, on element inspection.
